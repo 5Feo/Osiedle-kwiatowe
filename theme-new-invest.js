@@ -88,6 +88,7 @@ function changeActivePath(that, post_id) {
   that.addClass("active");
 }
 
+// ustawianie rzutów i planów
 function setFigures(table) {
   let images = "";
   let navigation = "";
